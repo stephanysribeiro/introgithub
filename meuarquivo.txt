@@ -4,4 +4,6 @@ linha nova MUITO NOVA no texto
 eu não acredito....git branc 
 nova ultima linha
 outra linha
+<<<<<<< HEAD
 11111111111111111111111111111111111111
+
